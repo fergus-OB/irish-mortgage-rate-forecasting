@@ -91,15 +91,17 @@ irish-mortgage-rate-forecasting/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
+```
 Tools and Libraries
-R
-readxl
-TSA
-dplyr
-tseries
-forecast
-Data Source
+
+- R
+- readxl
+- TSA
+- dplyr
+- tseries
+- forecast
+
+## Data Source
 
 The data was sourced from the Irish Government open data portal:
 
@@ -108,10 +110,10 @@ https://data.gov.ie/dataset/retail-interest-rates-mortgage-rates
 
 The raw dataset is not included in this repository. The R script can be adapted to the local location of the downloaded dataset.
 
-Project Context
+## Project Context
 
 This project was completed as part of a university time-series analysis assignment and has been cleaned and organised for portfolio use.
 
-Disclaimer
+## Disclaimer
 
 This project is for educational and portfolio purposes only. It should not be used as financial advice or as a production forecasting tool.
